@@ -1,11 +1,11 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "9A3XYQH875.com.pondi.geo",
-				"paths": ["*"]
-			}
-		]
-	}
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "9A3XYQH875.com.pondi.geo",
+      "paths": ["*"]
+    }
+    ]
+  }
 }
