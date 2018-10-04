@@ -4,7 +4,7 @@
     "details": [
     {
       "appID": "9A3XYQH875.com.pondi.geo",
-      "paths": ["*"]
+      "paths": ["/ard/*", NOT "/bea/*"]
     }
     ]
   }
